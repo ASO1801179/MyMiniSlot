@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">MyMiniSlot！</string>
-    <string name="havecoin">1000</string>
+    <string name="havecoin">1000000000000000000000000000000000000000000000000000000000000000000000000000000000000</string>
     <string name="betcoin">10</string>
 </resources>
